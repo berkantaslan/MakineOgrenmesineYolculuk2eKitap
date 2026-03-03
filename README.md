@@ -6,3 +6,5 @@ Bu çalışma, makine öğrenmesi tekniklerinin — özellikle Random Forest Cla
 Sorularınız ve tavsiyeleriniz için hello@berkantaslan.com olan mail adresime mail atabilirsiniz. Bu kitap üzerinde zamanla bazı güncellemeler olabilecek ve güncellemeler oldukça sizlerle paylaşacağım. Haberdar olabilmek için beni takip edebilirsiniz.
 
 https://www.kaggle.com/code/berkantaslan/a-markas-bilinirlik-ara-t-rmas
+
+https://www.academia.edu/144926193/Makine_Ogrenmesine_Yolculuk_2_eKitap
